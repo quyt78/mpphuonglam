@@ -1,2 +1,1 @@
-# mpphuonglam
-#Day la readme trong mpphuonglam
+#There are many things to learn
